@@ -2,7 +2,7 @@
 
 - [Fiction](fiction.csv)
 - [Anime](anime.csv) 
-- [Anime Soundtracks](anime-soundtracks.csv)
+- [Anime soundtracks](anime-soundtracks.csv)
 
 ### Currently
   
