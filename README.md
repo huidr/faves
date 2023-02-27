@@ -9,3 +9,8 @@
   
 - Crime and Punishment by Fyodor Dostoevsky
 - One Piece
+
+### To read/see
+
+- Notes from Underground
+- 
