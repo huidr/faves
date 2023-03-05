@@ -12,10 +12,11 @@
 
 ### To read
 
-- 
+- In Search of Lost Time
 - Notes from Underground
 - Sophie's World
 - Metamorphosis
+- Thus Spoke Zarathustra
 
 ### To see
 
