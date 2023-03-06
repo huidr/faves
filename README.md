@@ -8,7 +8,7 @@
 ### Currently
   
 - Crime and Punishment by Fyodor Dostoevsky
-- One Piece
+- You Lie in April
 
 ### To read
 
@@ -20,4 +20,6 @@
 
 ### To see
 
-- You Lie in April
+- One Piece
+- Parasyte
+- Psycho-Pass
