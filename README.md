@@ -8,7 +8,6 @@
 ### Currently
   
 - Crime and Punishment by Fyodor Dostoevsky
-- Your Lie in April
 
 ### To read
 
