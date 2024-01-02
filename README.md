@@ -1,25 +1,8 @@
 ### Faves
 
-- [Fiction](fiction.csv)
-- [Anime](anime.csv) (check out ronhuidrom@MAL as well)
+- [Anime (TV series)](anime-tv-series.csv) (check out ronhuidrom@MAL as well)
+- [Anime (movies)](anime-movies.csv) (check out ronhuidrom@MAL as well)
+- [Fiction books](fiction-books.csv) (includes both literary novels and genre novels, but I am more of a fan of the former)
 - [Anime OSTs](anime-ost.csv)
 - [Films](film.csv)
-- [Johnny Depp Movies](Johnny-Depp-movies.csv) (more emphasis on his performance than the overall greatness of the movie)
-
-### Currently
-  
-- Crime and Punishment by Fyodor Dostoevsky
-
-### To read
-
-- In Search of Lost Time
-- Notes from Underground
-- Sophie's World
-- Metamorphosis
-- Thus Spoke Zarathustra
-
-### To see
-
-- One Piece
-- Parasyte
-- Psycho-Pass
+- [Johnny Depp movies](Johnny-Depp-movies.csv) (more emphasis on his performance than the overall greatness of the movie)
