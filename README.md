@@ -4,6 +4,7 @@
 - [Anime](anime.csv) 
 - [Anime OSTs](anime-ost.csv)
 - [Films](film.csv)
+- [Johnny Depp Movies](Johnny-Depp-movies.csv)
 
 ### Currently
   
