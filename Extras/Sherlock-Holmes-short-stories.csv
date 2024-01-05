@@ -1,4 +1,6 @@
-Rank, Book, Type, Year, Genre(s), Notes
-1, The Brothers Karamazov, Novel, 1880, "Literary, philosophical, suspense",
-2, Crime and Punishment, Novel, 1866, "Psychological, crime, philosophical",
-3, Notes from Underground, Novella, 1864, "Philosophical, existential",
+Rank, Story, Source, Year, Premise
+1, The Speckled Band, "The Adventures, No. 8", 1892, "A young woman asks for Holmes' help when her ill-tempered stepfather moves her into the same room where her sister died under mysterious circumstances."
+2, The Red-Headed League, "The Adventures, No. 2", 1891, "What seems at first to be a harmless prank played upon a red-headed man is soon revealed to be much more: a sinister scheme devised by the Napoleon of Crime."
+3, A Scandal in Bohemia, "The Adventures, No. 1", 1891, "Sherlock Holmes finds himself evenly matched when he is employed to retrieve an indiscreet photograph of Irene Adler."
+4, Silver Blaze, "The Memoirs, No. 1", 1892, "Holmes investigates the disappearance of a champion racehorse and the murder of its trainer on a lonely moor."
+5, The Blue Carbuncle, "The Adventures, No. 7", 1892 "When the Countess of Morcar's priceless blue carbuncle is stolen, a reformed thief is charged with the crime."
