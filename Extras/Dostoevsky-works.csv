@@ -1,4 +1,5 @@
-Rank, Book, Type, Year, Genre(s), Notes
-1, The Brothers Karamazov, Novel, 1880, "Literary, philosophical, suspense",
-2, Crime and Punishment, Novel, 1866, "Psychological, crime, philosophical",
-3, Notes from Underground, Novella, 1864, "Philosophical, existential",
+Rank, Book, Type, Year, Genre(s), Themes, Notes
+1, The Brothers Karamazov, Novel, 1880, "Literary, philosophical, suspense", "Faith vs. reason, morality, suffering, envy",
+2, Crime and Punishment, Novel, 1866, "Psychological, crime, philosophical", "Alienation, morality, guilt, free will",
+3, Notes from Underground, Novella, 1864, "Philosophical, existential", "Isolation from modern society, spite",
+4, White Nights, Short story, 1848, "Romance", "Lonliness, love",
