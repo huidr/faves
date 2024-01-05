@@ -6,15 +6,16 @@ Some of the lists are marked "Very loosely ranked" because a merit-based ranking
 
 ### Literature
 
-- [Fiction Books](Literature/fiction-books.csv) (includes both literary novels and genre novels, but I am more of a fan of the former; also includes novellas)
+- [Fiction books](Literature/fiction-books.csv) (includes both literary novels and genre novels, but I am more of a fan of the former; also includes novellas and short story collections)
 - [Very loosely ranked] [Poetry](Literature/poetry.csv)
-- [Short Stories](Literature/short-stories.csv) (also includes novelettes)
+- [Very loosely ranked] [Short stories](Literature/short-stories.csv) (also includes novelettes)
 
 ### Media
 
-- [Anime Series](Media/anime-tv-series.csv) (check out ronhuidrom@MAL as well)
+- [Anime TV series](Media/anime-tv-series.csv) (check out ronhuidrom@MAL as well)
 
 ### Extras
 
 - [The works of Fyodor Dostoevksy](Extras/Dostoevsky-works.csv) (includes both novels and short stories)
-- [The movies of Johnny Depp](Extras/Depp-movies.csv) (counts both his performance and the overall greatness of the movie with considerably more importance on the former)
+- [Johnny Depp movies](Extras/Depp-movies.csv) (counts both his performance and the overall greatness of the movie with considerably more importance on the former)
+- [Sherlock Holmes short stories](Extras/Sherlock-Holmes-short-stories.csv)
