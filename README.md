@@ -17,6 +17,6 @@ Some of the lists are marked "Very loosely ranked" because a merit-based ranking
 ### Extras
 
 - [The works of Fyodor Dostoevksy](Extras/Dostoevsky-works.csv) (includes both novels and short stories although it might be a bit unfair to the stories to rank them together with the novels!)
-- [James Stewart movies](Extras/Depp-movies.csv) (counts both his performance and the overall greatness of the movie with considerable importance on the former)
+- [James Stewart movies](Extras/Stewart-movies.csv) (counts both his performance and the overall greatness of the movie with considerable importance on the former)
 - [Johnny Depp movies](Extras/Depp-movies.csv) (counts both his performance and the overall greatness of the movie with considerable importance on the former)
 - [Sherlock Holmes short stories](Extras/Sherlock-Holmes-short-stories.csv)
