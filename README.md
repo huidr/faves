@@ -4,14 +4,16 @@ As an admirer, follower, critic of literature and media, I have tried to rank so
 
 Some of the lists are marked "Very loosely ranked" because a merit-based ranking is almost impossible but an attempt has been made.
 
-### Literature
+### Books & Literature
 
-- [Fiction books](Literature/fiction-books.csv) (includes both literary novels and genre novels, but I am more of a fan of the former; also includes novellas and short story collections)
-- [Very loosely ranked] [Poetry](Literature/poetry.csv)
-- [Very loosely ranked] [Short stories](Literature/short-stories.csv) (also includes novelettes)
+- [Biographies & autobiographies](Books/biographies.csv)
+- [Fiction books](Literature/fiction-books.csv) (also includes novellas)
+- [Poetry](Literature/poetry.csv) [Very loosely ranked]
+- [Short stories](Literature/short-stories.csv) [Very loosely ranked](also includes novelettes)
 
 ### Media
 
+- [Anime movies](Media/anime-movies.csv)
 - [Anime TV series](Media/anime-tv-series.csv) (check out ronhuidrom@MAL as well)
 
 ### Extras
