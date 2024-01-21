@@ -13,8 +13,8 @@ Some of the lists are marked "very loosely ranked" because a merit-based ranking
 
 ### Media
 
-- [Anime movies](Media/anime-movies.csv)
-- [Anime TV series](Media/anime-tv-series.csv) (check out ronhuidrom@MAL as well)
+- [Anime movies](Media/anime-movies.csv) (check out ronhuidrom@MAL as well)
+- [Anime & donghua TV series](Media/anime-tv-series.csv) (check out ronhuidrom@MAL as well)
 
 ### Extras
 
