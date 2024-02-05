@@ -1,4 +1,4 @@
-Movie, Year, Genre, Rating, Review
+Movie, Year, Genre, Rating, Thoughts
 Alice in Wonderland, 2010, "Fantasy, adventure", ,
 Harry Potter and the Deathly Hallows: Part 1, 2010, "Fantasy", ,
 How to Train Your Dragon, 2010, "Fantasy, action", ,
@@ -51,6 +51,7 @@ Ex Machina, 2015, "Sci-fi", ,
 Mad Max: Fury Road, 2015, "Action", ,
 The Man Who Knew Infinity, 2015, "Biographical", 2/5, "Tells the tale of Srinivasa Ramanujan through good acting performance of Dev Patel."
 The Martian, 2015, "Sci-fi", ,
+Spectre, 2015, "Spy", 3.5/5, "Unoriginal, ordinary and somewhat predictable but saved by excellent visuals, cinematography and score. Quite a deterioration from its predecessor but still a nice addition to James Bond series."
 Steve Jobs, 2015, "Biographical", ,
 Arrival, 2016, "Sci-fi", , 
 Captain America: Civil War, 2016, "Superhero", ,
