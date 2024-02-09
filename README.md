@@ -7,7 +7,7 @@ Some of the lists are marked "very loosely ranked" because a merit-based ranking
 ### Books & Literature
 
 - [Biographies & autobiographies](Books/biographies.csv) [very loosely ranked]
-- [Fiction books](Literature/fiction-books.csv) (also includes novellas)
+- [Fiction books](Literature/fiction-books.csv) (check out [www.goodreads.com/ronaldhuidrom](https://www.goodreads.com/ronaldhuidrom) as well)
 - [Poetry](Literature/poetry.csv) [very loosely ranked]
 - [Short stories](Literature/short-stories.csv) [very loosely ranked](also includes novelettes)
 
