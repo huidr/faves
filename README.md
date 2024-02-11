@@ -4,6 +4,8 @@ As an admirer, follower, critic of literature and media, I have tried to rank so
 
 Some of the lists are marked "very loosely ranked" because a merit-based ranking is almost impossible but an attempt has been made.
 
+Goodreads and Letterboxd have made this repo quite primitive :( but that's for the better :).
+
 ### Books & Literature
 
 - [Biographies & autobiographies](Books/biographies.csv) [very loosely ranked]
