@@ -1,12 +1,12 @@
 Rank, Book, Author, Language, Year, Genre(s)
-1, The Brothers Karamazov, Fyodor Dostoevsky, Russian, 1880, "Literary, philosophical, suspense"
+1, The Brothers Karamazov, Fyodor Dostoevsky, Russian, 1880, "Philosophical, murder-mystery, courtroom, drama"
 2, Crime and Punishment, Fyodor Dostoevsky, Russian, 1866, "Psychological, crime, philosophical"
 3, The Count of Monte Cristo, Alexandre Dumas, French, 1844, "Adventure, historical fiction"
 4, Anna Karenina, Leo Tolstoy, Russian, 1878, "Literary realism"
 5, Catch-22, Joseph Heller, English, 1961, "Satire, war, dark humor, absurdist"
 6, The Stranger, Albert Camus, French, 1942, "Philosophical, absurdist"
 7, Nineteen Eighty-Four, George Orwell, English, 1949, "Dystopian, political"
-8, Jane Eyre, Charlotte Brontë, English, 1847, "Bildungsroman, coming-of-age"
+8, Jane Eyre, Charlotte Brontë, English, 1847, "Bildungsroman, coming-of-age, romance"
 9, The Catcher in the Rye, J. D. Salinger, English, 1951, "Bildungsroman, coming-of-age, literary realism"
 10, Adventures of Huckleberry Finn, Mark Twain, English, 1884, "Bildungsroman, robinsonade, picaresque"
 11, Lord of the Flies, William Golding, English, 1954, "Allegory, pyschological"
@@ -16,7 +16,7 @@ Rank, Book, Author, Language, Year, Genre(s)
 15, The Old Man and the Sea, Ernest Hemingway, English, 1952, "Literary, naval advenure"
 16, Notes from Underground, Fyodor Dostoevsky, Russian, 1864, "Philosophical, existential"
 17, To Kill a Mockingbird, Harper Lee, English, 1960, "Bildungsroman, Southern gothic"
-18, David Copperfield, Charles Dickens, English, 1850
+18, David Copperfield, Charles Dickens, English, 1850, "Bildungsroman, coming-of-age, semi-autobiographical"
 19, The Great Gatsby, F. Scott Fitzgerald, English, 1925, "Tragedy, realism, modernism"
 20, Metamorphosis, Franz Kafka, German, 1915, "Absurdist, tradegy"
 21, The Lord of the Rings, J. R. R. Tolkien, English, 1954, "Fantasy, adventure"
