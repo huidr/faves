@@ -1,5 +1,7 @@
 ## Faves
 
+Some notes are available [here](https://github.com/huidr/notes).
+
 ### Books & Literature
 
 - [Biographies & autobiographies](Books/biographies.csv)
