@@ -1,20 +1,20 @@
-Book (#parts), Author, "Publisher/Collection", Cover
-Divine Comedy, Dante Alighieri, "Everyman's Library", Hardcover
-The Brothers Karamazov, Fyodor Dostoevsky, "Everyman's Library", Hardcover
-Crime and Punishment, Fyodor Dostoevsky, "Everyman's Library", Hardcover
-The Count of Monte Cristo, Alexandre Dumas, "Everyman's Library", Hardcover
-"Catch-22", Joseph Heller, "Everyman's Library", Hardcover
-One Hundred Years of Solitude, Gabriel García Márquez, "Everyman's Library", Hardcover
-"In Search of Lost Time (1/4)", Marcel Proust, "Everyman's Library", Hardcover
-The Iliad and the Odyssey, Homer, Fingerprint Deluxe Edition, Hardcover
-Frankenstein, Mary Shelley, Fingerprint Deluxe Edition, Hardcover
-War and Peace, Leo Tolstoy, Fingerprint Classics, Paperback
-The Lord of the Rings (3/3), J. R. R. Tolkien, HarperCollins, Paperback
-"Sophie's World", Jostein Gaarder, Orion Publishing Group, Paperback
-The Selfish Gene, Richard Dawkins, Oxford Landmark Science, Paperback
-The Emperor's New Mind, Roger Penrose, Oxford Landmark Science, Paperback
-India's Struggle for Independence, Bipan Chandra and co., Penguin India, Paperback
-"Guns, Germs and Steel", Jared Diamond, Vintage, Paperback
-Sapiens, Yuval Noah Harari, Vintage, Paperback
-Homo Deus, Yuval Noah Harari, Vintage, Paperback
-Rurouni Kenshin (1/9), Nobuhiro Watsuki, VIZ 3-in-1 Edition, Paperback
+Book (#parts), Author, Subject, "Publisher/Collection", Cover
+Divine Comedy, Dante Alighieri, Epic narrative poem, "Everyman's Library", Hardcover
+The Brothers Karamazov, Fyodor Dostoevsky, Philosophical novel, "Everyman's Library", Hardcover
+Crime and Punishment, Fyodor Dostoevsky, Philosophical novel, "Everyman's Library", Hardcover
+The Count of Monte Cristo, Alexandre Dumas, Historical adventure novel, "Everyman's Library", Hardcover
+"Catch-22", Joseph Heller, Satirical war novel, "Everyman's Library", Hardcover
+One Hundred Years of Solitude, Gabriel García Márquez, Magical realism novel, "Everyman's Library", Hardcover
+"In Search of Lost Time (1/4)", Marcel Proust, Philosophical novel, "Everyman's Library", Hardcover
+The Iliad and the Odyssey, Homer, Epic narrative poem, Fingerprint Deluxe Edition, Hardcover
+Frankenstein, Mary Shelley, Gothic sci-fi novel, Fingerprint Deluxe Edition, Hardcover
+War and Peace, Leo Tolstoy, Philosophical novel, Fingerprint Classics, Paperback
+The Lord of the Rings (3/3), J. R. R. Tolkien, Fantasy adventure novel, HarperCollins, Paperback
+"Sophie's World", Jostein Gaarder, Philosophy, Orion Publishing Group, Paperback
+The Selfish Gene, Richard Dawkins, Evolutionary biology, Oxford Landmark Science, Paperback
+The Emperor's New Mind, Roger Penrose, Physics and consciousness, Oxford Landmark Science, Paperback
+India's Struggle for Independence, Bipan Chandra and co., Indian history, Penguin India, Paperback
+"Guns, Germs and Steel", Jared Diamond, Early human history, Vintage, Paperback
+Sapiens, Yuval Noah Harari, Vintage, Early human history, Paperback
+Homo Deus, Yuval Noah Harari, Vintage, Interdisciplinary, Paperback
+Rurouni Kenshin (1/9), Nobuhiro Watsuki, Adventure romance manga, VIZ 3-in-1 Edition, Paperback
