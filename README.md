@@ -2,17 +2,14 @@
 
 Some notes are available [here](https://github.com/huidr/notes).
 
-### Books & Literature
+### Books, Manga, etc.
 
+- [Nonfiction](Books/nonfiction.md)
 - [Biographies & autobiographies](Books/biographies.csv)
-- [Fiction](Literature/fiction-books.csv)
+- [Fiction](Literature/fiction.csv)
 - [Poetry](Literature/poetry.csv)
-- [Short stories](Literature/short-stories.csv) (also includes novelettes)
-
-### Media
-
-- [Anime movies](Media/anime-movies.csv) (check out ronhuidrom@MAL as well)
-- [Anime & donghua series](Media/anime-tv-series.csv) (check out ronhuidrom@MAL as well)
+- [Short stories](Literature/short-stories.csv) (includes novelettes too)
+- [Manga & anime](Media/manga-anime.csv) (ronhuidrom@MAL)
 
 ### Extras
 
