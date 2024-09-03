@@ -4,7 +4,7 @@ Some notes are available [here](https://github.com/huidr/notes).
 
 ### Books, Manga, etc.
 
-- [Nonfiction](Books/nonfiction.md)
+- [Nonfiction](Books/nonfiction.csv)
 - [Biographies & autobiographies](Books/biographies.csv)
 - [Fiction](Literature/fiction.csv)
 - [Poetry](Literature/poetry.csv)
