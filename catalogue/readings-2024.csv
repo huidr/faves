@@ -1,6 +1,6 @@
 Book, Author, Type, Subject, Start date, Finish date
 The Count of Monte Cristo, Alexandre Dumas, Fiction, Adventure novel, May 20, Jun 2
-"Guns, Germs and Steel", Jared Diamond, Nonfiction, History, Jun 4, Jul 2
+"Guns, Germs and Steel", Jared Diamond, Nonfiction, Prehistory, Jun 4, Jul 2
 "Inferno (Divine Comedy, #1)", Dante Alighieri, Fiction, Epic narrative poem, Jun 12, Jun 27
 Introduction to the Theory of Computation, Michael Sipser, Textbook, Computer science, Jun 22, Jul 31
 History of Manipur: Pre-colonial Period, Gangmumei Kamei, Nonfiction, History, Jul 3, Jul 6
@@ -8,12 +8,12 @@ History of Manipur: Pre-colonial Period, Gangmumei Kamei, Nonfiction, History, J
 A Short History of Nearly Everything, Bill Bryson, Nonfiction, Pop science, Jul 7, Jul 15
 The Prophet, Kahlil Kibran, Fiction, Prose poems compendium, Jul 7, Jul 10
 The Complete Danteworlds, Guy P. Raffa, Nonfiction, Manual, Jul 15, Sep 2
-Prufrock and Other Observations, T. S. Eliot, Poetry, Modernist, Jul 16, Jul 21
+Prufrock and Other Observations, T. S. Eliot, Poetry, Modernist poem, Jul 16, Jul 21
 The Selfish Gene, Richard Dawkins, Nonfiction, Evolutionary biology, Jul 17, Jul 21
 Iliad, Homer, Fiction, Epic narrative poem, Jul 22, Jul 25
-Brilliant Blunders, Mario Livio, Nonfiction, Science, Jul 24, Aug 10
+Brilliant Blunders, Mario Livio, Nonfiction, History of science, Jul 24, Aug 10
 Odyssey, Homer, Fiction, Epic narrative poem, Jul 27, Jul 30
-The Dawn of Everything, "David Graeber, David Wengrow", Nonfiction, History, Aug 7, Sep 3
+The Dawn of Everything, "David Graeber, David Wengrow", Nonfiction, Prehistory, Aug 7, Sep 3
 "Paradiso (Divine Comedy, #3)", Dante Alighieri, Fiction, Epic narrative poem, Aug 10, Sep 2
 India's Struggle for Independence, Bipan Chandra and others, Nonfiction, History, Aug 15, Oct 28
 Automata and Computability, Dexter Kozen, Textbook, Computer science, Sep 1, Nov 30
@@ -30,8 +30,10 @@ Ancient Philosophy, Julia Annas, Nonfiction, Philosophy, Nov 22, Nov 28
 Topics in Algebra, "I. N. Herstein", Textbook, Mathematics, Dec 3, Ongoing
 Medieval Philosophy, John Marenbon, Nonfiction, Philosophy, Dec 4, Dec 7
 Principles of Mathematical Analysis, Walter Rudin, Textbook, Mathematics, Dec 7, Ongoing
-Indian Polity, M. Laxmikanth, Nonfiction, Polity, ,
+Horizons, James Poskett, Nonfiction, History of science, , 
 No Longer Human, Osamu Dazai, Fiction, Literary novel, , 
+Literary Theory, Jonathan Culler, Nonfiction, Literature/Philosophy, ,
+Indian Polity, M. Laxmikanth, Nonfiction, Polity, ,
 Presocratic Philosophy, Catherine Osborne, Nonfiction, Philosophy, ,
 Notes from a Dead House, Fyodor Dostoevsky, Fiction, Philosophical novel, ,
 Medieval India, Romila Thapar, Nonfiction, History, ,
@@ -40,7 +42,6 @@ Socrates, C. C. W. Taylor, Nonfiction, Philosophy, ,
 Plato, Julia Annas, Nonfiction, Philosophy, ,
 Aristotle, Jonathan Barnes, Nonfiction, Philosophy, ,
 Social and Cultural Anthropology, "John Monaghan, Peter Just", Nonfiction, Anthropology, ,
-Literary Theory, Jonathan Culler, Nonfiction, Literature/Philosophy, ,
 -,-,-,-,-,-
 The Roman Republic, David M. Gwynn, Nonfiction, Classical studies, ,
 The Hellenistic Age, Peter Thonemann, Nonfiction, Classical studies, ,
