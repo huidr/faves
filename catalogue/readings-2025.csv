@@ -1,8 +1,8 @@
 Book, Author, Type, Subject, Start date, Finish date
-Horizons, James Poskett, Nonfiction, History of science, , 
-Social and Cultural Anthropology, "John Monaghan, Peter Just", Nonfiction, Anthropology, ,
-Notes from a Dead House, Fyodor Dostoevsky, Fiction, Philosophical novel, ,
+Horizons, James Poskett, Nonfiction, History of science, ,
+Abstract Algebra, "David Dummit, Richard Foote", Textbook, Mathematics,
 Medieval India, Romila Thapar, Nonfiction, History, ,
+Notes from a Dead House, Fyodor Dostoevsky, Fiction, Philosophical novel, ,
 Socrates, C. C. W. Taylor, Nonfiction, Philosophy, ,
 Plato, Julia Annas, Nonfiction, Philosophy, ,
 Aristotle, Jonathan Barnes, Nonfiction, Philosophy, ,
@@ -13,4 +13,4 @@ The Hellenistic Age, Peter Thonemann, Nonfiction, Classical studies, ,
 Candide, Voltaire, Fiction, Philosophical novella, ,
 A Portrait of the Artist as a Young Man, James Joyce, Fiction, Modernist novel, ,
 "Swann's Way (In Search of Lost Time, #1)", Marcel Proust, Fiction, Literary novel, , 
-"Algebra: Chapter 0", Paolo Aluffi, Textbook, Mathematics, April 28, Ongoing
+"Algebra: Chapter 0", Paolo Aluffi, Textbook, Mathematics, , 
