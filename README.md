@@ -6,7 +6,7 @@ Some notes are available [here](https://github.com/huidr/notes).
 
 - [Nonfiction](Books/nonfiction.csv)
 - [Biographies & autobiographies](Books/biographies.csv)
-- [Fiction](Literature/fiction.csv)
+- [Fiction](Literature/greatest-fiction.csv)
 - [Poetry](Literature/poetry.csv)
 - [Short stories](Literature/short-stories.csv) (includes novelettes too)
 - [Manga & anime](Media/manga-anime.csv) (ronhuidrom@MAL)
