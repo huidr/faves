@@ -1,0 +1,23 @@
+{
+    {
+	"Book": "Swann's Way (In Search of Lost Time, #1)",
+	"Author": "Marcel Proust",
+	"Type": "Fiction",
+	"Subject": "Literary novel",
+	"Dates": {
+	    "Started": "January 1, 2025",
+	    "Finished": "Ongoing"
+	}
+    },
+	
+    {
+	"Book": "Chapters from My Autobiography",
+	"Author": "Mark Twain",
+	"Type": "Nonfiction",
+	"Subject": "Autobiography",
+	"Dates": {
+	    "Started": "March 19, 2025",
+	    "Finished": "Ongoing"
+	}
+    },
+}
