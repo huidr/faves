@@ -1,23 +1,52 @@
 {
-    {
-	"Book": "Swann's Way (In Search of Lost Time, #1)",
-	"Author": "Marcel Proust",
-	"Type": "Fiction",
-	"Subject": "Literary novel",
-	"Dates": {
-	    "Started": "January 1, 2025",
-	    "Finished": "Ongoing"
+    "year": 2025,
+    "number of books read": {
+	"total": 4,
+	"fiction": 1,
+	"nonfiction": 2,
+	"textbook": 1
+    }
+    "last updated": "March 19, 2025",
+    "books": [
+	{
+	    "title": "Swann's Way (In Search of Lost Time, #1)",
+	    "author": "Marcel Proust",
+	    "type": "fiction",
+	    "subject": ["literary novel", "modernist novel"],
+	    "dates": {
+		"started": "January 1, 2025",
+		"ended": "Ongoing"
+	    }
+	},
+	{
+	    "title": "Indian Polity",
+	    "author": "Laxmikanth",
+	    "type": "nonfiction",
+	    "subject": ["polity"],
+	    "dates": {
+		"started": "January 8, 2025",
+		"ongoing": "Ongoing"
+	    }
+	},
+	{
+	    "title": "The Study of Language",
+	    "author": "George Yule",
+	    "type": "textbook",
+	    "subjects": ["language, linguistics"],
+	    "dates": {
+		"started": "January 22, 2025",
+		"ended": "ongoing"
+	    }
+	},
+	{
+	    "title": "Medieval India",
+	    "author": "Romila Thapar",
+	    "type": "Textbook",
+	    "subjects": ["history"],
+	    "dates": {
+		"started": "January 25, 2025",
+		"ended": "February 21, 2025"
+	    }
 	}
-    },
-	
-    {
-	"Book": "Chapters from My Autobiography",
-	"Author": "Mark Twain",
-	"Type": "Nonfiction",
-	"Subject": "Autobiography",
-	"Dates": {
-	    "Started": "March 19, 2025",
-	    "Finished": "Ongoing"
-	}
-    },
+    ]
 }
